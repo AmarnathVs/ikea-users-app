@@ -35,9 +35,9 @@ on:
       - '"main"'
 
 env:
-  PROJECT_ID: 'my-project' # TODO: update to your Google Cloud project ID
-  REGION: 'us-central1' # TODO: update to your region
-  SERVICE: 'my-service' # TODO: update to your service name
+  PROJECT_ID: 'student-001029' # TODO: update to your Google Cloud project ID
+  REGION: 'eurpoe-central2' # TODO: update to your region
+  SERVICE: 'ikea-users-app' # TODO: update to your service name
 
 jobs:
   deploy:
